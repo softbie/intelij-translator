@@ -25,8 +25,8 @@
 
     </extensions>
     <actions>
-        <action id="TestAction" class="TestAction" text="Test action" description="test action">
-            <keyboard-shortcut keymap="$default" first-keystroke="alt Q"/>
+        <action id="TranslateAction" class="Actions.TranslateAction" text="Translate Action" description="Translate selected text">
+            <keyboard-shortcut keymap="$default" first-keystroke="alt W"/>
         </action>
     </actions>
 </idea-plugin>
